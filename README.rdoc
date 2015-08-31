@@ -3,10 +3,14 @@
 
 Sample Blog App to demonstrate the use of Rails v4 with Mongoid v5
 
-==== Mongodb install
+Install MongoDb
+---------------
 
 > brew install mongodb
 
-==== Run app
+More information at https://www.mongodb.org/downloads
+
+Run this app
+------------
 
 > rails s
